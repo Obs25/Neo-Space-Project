@@ -63,15 +63,15 @@ This project retrieves Near-Earth Object (NEO) data from NASA's public API, stor
 
 ## ▶️ How to Run the Application
 
-1.  **Navigate to Directory:** Open your terminal or command prompt and change to the directory where you saved the Streamlit Python script (e.g., `nasa_neo_app_basic.py`).
+1.  **Navigate to Directory:** Open your terminal or command prompt and change to the directory where you saved the Streamlit Python script (e.g., `demo1.py`).
 
 2.  **Run Streamlit:**
     ```bash
-    streamlit run nasa_neo_app_basic.py
+    streamlit run demo1.py
     ```
     *   *(Optional)* If the browser doesn't open automatically or you see a `FileNotFoundError: [Errno 2] No such file or directory: 'open'` in the terminal, use:
         ```bash
-        streamlit run nasa_neo_app_basic.py --server.headless true
+        streamlit demo1.py --server.headless true
         ```
         Then manually open your web browser and go to the "Network URL" provided in the terminal (usually `http://localhost:8501`).
 
