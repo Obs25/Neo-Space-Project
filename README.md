@@ -38,8 +38,7 @@ This project retrieves Near-Earth Object (NEO) data from NASA's public API, stor
 
 1.  **Clone Repository (Optional):** If you have this project in a Git repository, clone it:
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone https://github.com/Obs25/Project-1-NASA-Near-Earth-Object-NEO-Tracking-Insights-using-Public-API.git
     ```
     Otherwise, just make sure you have the project files in a local directory.
 
